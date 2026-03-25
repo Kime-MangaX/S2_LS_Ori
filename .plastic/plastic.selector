@@ -1,0 +1,4 @@
+repository "S2_LS/S2_LS@4674123939194@cloud"
+  path "/"
+    br "/main"
+    co "/main"
